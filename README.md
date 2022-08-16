@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/vectors/woman-sitting-with-laptop-freelance-online-studying-concept-remote-vector-id1225089159?k=20&m=1225089159&s=612x612&w=0&h=D_row8gk-ddYF20adk9fp7HBBn7yFNEmafOQfOBdqCA=" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priya Jha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
