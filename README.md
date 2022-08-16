@@ -43,16 +43,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Priyajha7585/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priya Jha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyajha7585&theme=blux&hide_border=true"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Priyajha7585/github-readme-stats"><img alt="Priya Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyajha7585&show_icons=true&count_private=true&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/Priyajha7585/github-readme-stats"><img alt="Priya Jha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyajha7585&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Priyajha7585/github-readme-activity-graph"><img alt="Priya Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyajha7585&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
