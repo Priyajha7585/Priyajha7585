@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Priyajha7585/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://priya-jha-portfolio.netlify.app/)**
 
 - 📫 How to reach me **priyajha7585@gmail.com**
 
