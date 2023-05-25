@@ -43,16 +43,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Priyajha7585/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priya Jha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyajha7585&theme=blux&hide_border=true"/>
+    <a href="https://github.com/Priyajha017/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priya Jha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyajha017&theme=blux&hide_border=true"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <p align="center"><a href="https://github.com/Priyajha7585/github-readme-stats"><img alt="Priya Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyajha7585&show_icons=true&count_private=true&theme=react&hide_border=true" /></a></p><br/>
-  <p align="center"><a href="https://github.com/Priyajha7585/github-readme-stats"><img alt="Priya Jha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyajha7585&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" width="50%" /></a></p>
+    <p align="center"><a href="https://github.com/Priyajha017/github-readme-stats"><img alt="Priya Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyajha017&show_icons=true&count_private=true&theme=react&hide_border=true" /></a></p><br/>
+  <p align="center"><a href="https://github.com/Priyajha017/github-readme-stats"><img alt="Priya Jha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyajha017&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" width="50%" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Priyajha7585/github-readme-activity-graph"><img alt="Priya Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyajha7585&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Priyajha017/github-readme-activity-graph"><img alt="Priya Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyajha017&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -77,6 +77,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Priyajha7585">
+    <img src="https://komarev.com/ghpvc/?username=Priyajha017">
 </a>
-<a href="https://github.com/Priyajha7585?tab=followers"><img src="https://img.shields.io/github/followers/Priyajha7585?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Priyajha017?tab=followers"><img src="https://img.shields.io/github/followers/Priyajha017?label=Followers&style=social" alt="GitHub Badge"></a>
