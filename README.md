@@ -35,7 +35,7 @@
 <!-- ## Connect with me: -->
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href = "https://www.linkedin.com/in/priyajha7585/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/priyajha17/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -44,6 +44,6 @@
 <h2 align="center">Views and Followers</h2>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Priyajha017">
+    <img src="https://komarev.com/ghpvc/?username=Priyajha77">
 </a>
-<a href="https://github.com/Priyajha017?tab=followers"><img src="https://img.shields.io/github/followers/Priyajha017?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<a href="https://github.com/Priyajha77?tab=followers"><img src="https://img.shields.io/github/followers/Priyajha017?label=Followers&style=social" alt="GitHub Badge"></a></p>
