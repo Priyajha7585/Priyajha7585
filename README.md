@@ -12,7 +12,6 @@
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable web applications, including their networks and infrastructure.
   </samp>
 </p>
-<br/>
 <!-- ## 🚀 Languages and Tools: -->
 <h2 align="center">🚀 Languages and Tools 🚀</h2>
 <p align="center">
@@ -33,7 +32,6 @@
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" title="Flask" alt="Flask"/>
 </p>
 
-<br/>
 <!-- ## Connect with me: -->
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -42,7 +40,6 @@
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-<br/>
 <!-- ## ❤ Views and Followers -->
 <h2 align="center">Views and Followers</h2>
 <p align="center">
