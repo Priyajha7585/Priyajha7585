@@ -2,15 +2,15 @@
 <!-- <p align="center"><img width="25%" height="auto" src="./assets/Picture1.png"/></p> -->
 <img width="100%" height="auto" src="./assets/github-header-image.png"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priya Jha</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priya Jha</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as an **[Associate Software Engineer]**
+- 🔭 I’m currently working as an **[Software Engineer - Web Development]**
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -45,16 +45,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Priyajha017/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priya Jha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyajha017&theme=blux&hide_border=true"/>
+    <a href="https://github.com/Priyajha77/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priya Jha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyajha77&theme=blux&hide_border=true"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <p align="center"><a href="https://github.com/Priyajha017/github-readme-stats"><img alt="Priya Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyajha017&show_icons=true&count_private=true&theme=react&hide_border=true" /></a></p><br/>
-  <p align="center"><a href="https://github.com/Priyajha017/github-readme-stats"><img alt="Priya Jha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyajha017&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" width="50%" /></a></p>
+    <p align="center"><a href="https://github.com/Priyajha77/github-readme-stats"><img alt="Priya Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priyajha77&show_icons=true&count_private=true&theme=react&hide_border=true" /></a></p><br/>
+  <p align="center"><a href="https://github.com/Priyajha77/github-readme-stats"><img alt="Priya Jha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyajha77&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" width="50%" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Priyajha017/github-readme-activity-graph"><img alt="Priya Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyajha017&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Priyajha77/github-readme-activity-graph"><img alt="Priya Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyajha77&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
