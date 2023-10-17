@@ -1,6 +1,6 @@
 <!-- <p align="center"><img width="40%" height="auto" src="https://media.istockphoto.com/vectors/woman-with-laptop-sitting-in-nature-and-leaves-concept-illustration-vector-id1139913278?k=20&m=1139913278&s=170667a&w=0&h=uUWuSfPL_zf-Nc16yzFsSDVp5igLwbUXrzu-OyfBx1M="/></p> -->
 <!-- <p align="center"><img width="25%" height="auto" src="./assets/Picture1.png"/></p> -->
-<img width="100%" height="auto" src="./assets/github-header-image.png"/>
+<img width="100%" height="auto" src="./assets/github-header-image.png"/><br/>
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priya Jha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
@@ -12,7 +12,7 @@
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable web applications, including their networks and infrastructure.
   </samp>
 </p>
-
+<br/>
 <!-- ## 🚀 Languages and Tools: -->
 <h2 align="center">🚀 Languages and Tools 🚀</h2>
 <p align="center">
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" title="Flask" alt="Flask"/>
 </p>
 
-
+<br/>
 <!-- ## Connect with me: -->
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -42,7 +42,7 @@
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-
+<br/>
 <!-- ## ❤ Views and Followers -->
 <h2 align="center">Views and Followers</h2>
 <p align="center">
